@@ -61,7 +61,7 @@
     <tbody>
         <tr>
             <td align="center"> <strong>Серьезность
-            <td align="left"> High
+            <td align="left"> Medium
             </tr>
         </thead>
     <tbody>
@@ -139,13 +139,13 @@
     <tbody>
         <tr>
             <td align="center"> <strong>Приоритет
-            <td align="left"> Medium (средняя)
+            <td align="left"> Medium 
             </tr>
         </thead>
     <tbody>
         <tr>
             <td align="center"> <strong>Серьезность
-            <td align="left"> Medium (средняя)
+            <td align="left"> Medium 
             </tr>
         </thead>
     <tbody>
